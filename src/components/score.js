@@ -7,6 +7,7 @@ import {
 } from 'react-native';
 
 import TeamScore from './team.js';
+import SpeechToText from './speechToText.js';
 
 class Score extends Component {
   render() {
